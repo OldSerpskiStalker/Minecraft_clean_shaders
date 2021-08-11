@@ -18,7 +18,7 @@ void main()
 }
 #endif
 
-#ifdef #ifdef SHADER_VSH
+#ifdef SHADER_VSH
 out vec2 texcoord;
 out vec4 glcolor;
 

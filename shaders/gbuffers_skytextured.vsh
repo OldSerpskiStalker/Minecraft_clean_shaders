@@ -1,4 +1,4 @@
 #version 460 compatibility
 
-#include SHADER_VSH
+#define SHADER_VSH
 #include "inline_shaders/gbuffers_skytextured.glsl"
