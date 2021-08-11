@@ -1,4 +1,4 @@
 #version 460 compatibility
 
-#iclude SHADER_FSH
-#iclude "inline_shaders/gbuffers_entities.glsl"
+#include SHADER_FSH
+#include "inline_shaders/gbuffers_entities.glsl"

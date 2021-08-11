@@ -1,4 +1,4 @@
 #version 460 compatibility
 
-#iclude SHADER_VSH
-#iclude "inline_shaders/gbuffers_spidereyes.glsl"
+#include SHADER_VSH
+#include "inline_shaders/gbuffers_spidereyes.glsl"
