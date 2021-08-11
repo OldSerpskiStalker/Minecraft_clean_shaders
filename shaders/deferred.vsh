@@ -1,9 +1,4 @@
 #version 460 compatibility
 
-out vec2 texcoord;
-
-void main() 
-{
-	gl_Position = ftransform();
-	texcoord = (gl_TextureMatrix[0] * gl_MultiTexCoord0).xy;
-}
+#iclude SHADER_VSH
+#iclude "inline_shaders\deferred.glsl"
