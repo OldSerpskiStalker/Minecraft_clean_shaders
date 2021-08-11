@@ -1,4 +1,4 @@
 #version 460 compatibility
 
 #iclude SHADER_FSH
-#iclude "inline_shaders\deferred.glsl"
+#iclude "inline_shaders/deferred.glsl"

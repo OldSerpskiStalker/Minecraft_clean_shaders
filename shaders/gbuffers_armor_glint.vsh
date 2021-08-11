@@ -1,4 +1,4 @@
 #version 460 compatibility
 
 #iclude SHADER_VSH
-#iclude "inline_shaders\gbuffers_armor_glint.glsl"
+#iclude "inline_shaders/gbuffers_armor_glint.glsl"
