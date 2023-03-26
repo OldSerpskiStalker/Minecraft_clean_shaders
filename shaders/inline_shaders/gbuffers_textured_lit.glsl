@@ -1,5 +1,5 @@
 #pragma once
-/* ZauRus'72 */
+/* OldSerpskiStalker */
 
 #ifdef SHADER_FSH
 in vec2 lmcoord;

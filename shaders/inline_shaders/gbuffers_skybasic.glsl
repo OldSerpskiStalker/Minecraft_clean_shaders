@@ -1,5 +1,5 @@
 #pragma once
-/* ZauRus'72 */
+/* OldSerpskiStalker */
 
 #ifdef SHADER_FSH
 in vec4 starData; //rgb = star color, a = flag for weather or not this pixel is a star.
